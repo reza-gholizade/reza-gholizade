@@ -1,0 +1,58 @@
+# Hi there, I'm Reza 👋
+
+🚀 **Software Engineer | DevOps Specialist | Cloud Enthusiast**
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages**: Go, Python, TypeScript, Bash
+- **Cloud Platforms**: AWS, Azure, GCP
+- **Containerization**: Docker, Containerd
+- **Orchestration**: Kubernetes, Helm
+- **CI/CD**: GitHub Actions, GitLab CI
+- **Infrastructure as Code**: Terraform, Ansible
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, Zabbix
+- **Databases**: PostgreSQL, MongoDB, Redis, Mysql
+
+---
+
+## 📈 GitHub Stats
+
+![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reza-gholizade&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-gholizade&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/reza-gholizade/)
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Understanding Kubernetes Networking](https://reza-gholizade.dev/kubernetes-networking)
+- [Implementing CI/CD with GitHub Actions](https://reza-gholizade.dev/github-actions-cicd)
+- [Monitoring Microservices with Prometheus](https://reza-gholizade.dev/monitoring-microservices)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=reza-gholizade&theme=radical)
+
+---
+
+## 📌 Pinned Repositories
+
+[![k8s-mcp-server](https://github-readme-stats.vercel.app/api/pin/?username=reza-gholizade&repo=k8s-mcp-server&theme=radical)](https://github.com/reza-gholizade/k8s-mcp-server)
+
+[![awesome-mcp-servers](https://github-readme-stats.vercel.app/api/pin/?username=punkpeye&repo=awesome-mcp-servers&theme=radical)](https://github.com/punkpeye/awesome-mcp-servers)
+
+---
+
+*“Striving for excellence in Solution Architechture and Automation.”*
