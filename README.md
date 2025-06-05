@@ -1,6 +1,6 @@
 # Hi there, I'm Reza 👋
 
-🚀 **Software Engineer | DevOps Specialist | Cloud Enthusiast**
+🚀 **Solution Architechture | DevOps Specialist | Cloud Enthusiast**
 
 ---
 
