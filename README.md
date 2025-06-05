@@ -34,9 +34,8 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Kubernetes Networking](https://reza-gholizade.dev/kubernetes-networking)
-- [Implementing CI/CD with GitHub Actions](https://reza-gholizade.dev/github-actions-cicd)
-- [Monitoring Microservices with Prometheus](https://reza-gholizade.dev/monitoring-microservices)
+- [🚀 Introducing k8s-mcp-server: A Secure, Lightweight Gateway Between AI Agents and Kubernetes](https://medium.com/@gholizade.net/introducing-k8s-mcp-server-a-secure-lightweight-gateway-between-ai-agents-and-kubernetes-e9cdcbe09d70)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
