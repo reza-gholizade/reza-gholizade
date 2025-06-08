@@ -6,7 +6,7 @@
 
 ## 🧰 Tech Stack
 
-- **Languages**: Go, Python, TypeScript, Bash
+- **Languages**: Go, Python, TypeScript, Bash 
 - **Cloud Platforms**: AWS, Azure, GCP
 - **Containerization**: Docker, Containerd
 - **Orchestration**: Kubernetes, Helm
