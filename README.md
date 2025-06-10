@@ -54,4 +54,4 @@
 
 ---
 
-*“Striving for excellence in Solution Architechture and Automation.”*
+*“Striving for excellence in Solution Architechture and Automation”*
