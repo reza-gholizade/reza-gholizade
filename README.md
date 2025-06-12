@@ -37,15 +37,12 @@
 - [🚀 Introducing k8s-mcp-server: A Secure, Lightweight Gateway Between AI Agents and Kubernetes](https://medium.com/@gholizade.net/introducing-k8s-mcp-server-a-secure-lightweight-gateway-between-ai-agents-and-kubernetes-e9cdcbe09d70)
 
 <!-- BLOG-POST-LIST:END -->
-
 ---
-
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=reza-gholizade&theme=radical)
 
 ---
-
 ## 📌 Pinned Repositories
 
 [![k8s-mcp-server](https://github-readme-stats.vercel.app/api/pin/?username=reza-gholizade&repo=k8s-mcp-server&theme=radical)](https://github.com/reza-gholizade/k8s-mcp-server)
@@ -53,5 +50,4 @@
 [![awesome-mcp-servers](https://github-readme-stats.vercel.app/api/pin/?username=punkpeye&repo=awesome-mcp-servers&theme=radical)](https://github.com/punkpeye/awesome-mcp-servers)
 
 ---
-
 *“Striving for excellence in Solution Architechture and Automation”*
