@@ -38,6 +38,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 ---
+
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=reza-gholizade&theme=radical)
