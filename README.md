@@ -1,9 +1,7 @@
 # Hi there, I'm Reza  👋
 
 🚀 **Solution Architect | DevOps Engineer | Cloud Enthusiast**
-
 --- 
-
 ## 🧰 Tech Stack
 
 - **Languages**: Go, Python, TypeScript, Bash 
