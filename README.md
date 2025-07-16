@@ -34,7 +34,7 @@
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing k8s-mcp-server: A Secure, Lightweight Gateway Between AI Agents and Kubernetes](https://medium.com/@gholizade.net/introducing-k8s-mcp-server-a-secure-lightweight-gateway-between-ai-agents-and-kubernetes-e9cdcbe09d70)
+- [🚀 Introducing k8s-mcp-server: A Secure, Lightweight Gateway Between AI Agents and Kubernetes](https://medium.com/@gholizade.net/%EF%B8%8F-helm-support-for-k8s-mcp-server-updated-n8n-workflow-e277c83c3236)
 
 <!-- BLOG-POST-LIST:END -->
 
