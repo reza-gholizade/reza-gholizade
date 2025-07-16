@@ -24,7 +24,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-gholizade&layout=compact&theme=radical)
 
 ---
-
+ 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/reza-gholizade/)
