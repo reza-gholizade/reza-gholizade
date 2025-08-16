@@ -3,9 +3,9 @@
 🚀 **Solution Architect | DevOps Engineer | Cloud Enthusiast**
 
 ---
-
-## 🧰 Tech Stack
  
+## 🧰 Tech Stack
+
 - **Languages**: Go, Python, TypeScript, Bash 
 - **Cloud Platforms**: AWS, Azure, GCP
 - **Containerization**: Docker, Containerd
