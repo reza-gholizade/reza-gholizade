@@ -30,7 +30,7 @@
 - [LinkedIn](https://www.linkedin.com/in/reza-gholizade/)
 
 ---
- 
+  
 ## 📝 Latest Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
