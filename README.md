@@ -38,7 +38,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
----
+--- 
   
 ## 🏆 GitHub Trophies
 
