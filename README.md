@@ -16,7 +16,7 @@
 - **Databases**: PostgreSQL, MongoDB, Redis, Mysql 
  
 ---
- 
+
 ## 📈 GitHub Stats
 
 ![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reza-gholizade&show_icons=true&theme=radical)
