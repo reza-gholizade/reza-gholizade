@@ -13,7 +13,7 @@
 - **Infrastructure as Code**: Terraform, Ansible
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, Zabbix
 - **Databases**: PostgreSQL, MongoDB, Redis, Mysql 
- 
+
 ---
 
 ## 📈 GitHub Stats
