@@ -48,8 +48,6 @@
 
 [![k8s-mcp-server](https://github-readme-stats.vercel.app/api/pin/?username=reza-gholizade&repo=k8s-mcp-server&theme=radical)](https://github.com/reza-gholizade/k8s-mcp-server)
 
-[![awesome-mcp-servers](https://github-readme-stats.vercel.app/api/pin/?username=punkpeye&repo=awesome-mcp-servers&theme=radical)](https://github.com/punkpeye/awesome-mcp-servers)
-
 ---
 
-*“Striving for excellence in Solution Architechture and Automation”*
+*“Striving for excellence in Solution Architecture and Automation”*
