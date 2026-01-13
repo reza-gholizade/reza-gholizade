@@ -4,7 +4,7 @@
  
 --- 
 ## 🧰 Tech Stack 
- 
+
 - **Languages**: Go, Python, TypeScript, Bash 
 - **Cloud Platforms**: AWS, Azure, GCP
 - **Containerization**: Docker, Containerd
@@ -13,7 +13,7 @@
 - **Infrastructure as Code**: Terraform, Ansible
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, Zabbix
 - **Databases**: PostgreSQL, MongoDB, Redis, Mysql 
- 
+
 ---
  
 ## 📈 GitHub Stats
