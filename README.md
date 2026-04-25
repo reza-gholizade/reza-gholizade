@@ -1,5 +1,5 @@
 # Hi there, I'm Rez
- 
+
 🚀 **Solution Architect | DevOps Engineer | Cloud Enthusiast** 
 
 --- 
