@@ -1,4 +1,4 @@
-# Hi there, I'm Rez
+# Hi there, I'm Reza
 
 🚀 **Solution Architect | DevOps Engineer | Cloud Enthusiast** 
 
