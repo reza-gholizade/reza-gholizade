@@ -110,21 +110,13 @@ A curated MCP server collection built around the growing ecosystem of **AI agent
 
 </div>
 
-### 🟩 Contribution Graph
-
-<div align="center">
-
-![Reza's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reza-gholizade&hide_border=true&area=true&custom_title=Reza%20Gholizade%20%E2%80%94%20Contribution%20Graph)
-
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=reza-gholizade&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=reza-gholizade&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
 
 </div>
 
